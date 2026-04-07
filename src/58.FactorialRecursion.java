@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Factorial {
+class FactorialRecursion {
     static void main(){
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to the factorial calculator");
