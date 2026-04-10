@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+class PrintEven {
+     static void main() {
+         Scanner input = new Scanner(System.in);
+         System.out.print("Please enter your number: ");
+         int num = input.nextInt();
+         for (int i=0 ; i<=num ; i++){
+             if (i%2==1){
+                 continue;
+             }
+             System.out.println(i);
+         }
+     }
+}
