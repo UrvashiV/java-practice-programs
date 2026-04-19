@@ -1,4 +1,4 @@
-package in.kgcoding.challeneg87;
+package in.kgcoding.challenge87;
 
 import java.util.Scanner;
 
