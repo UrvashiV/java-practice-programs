@@ -1,5 +1,5 @@
 class Demo {
     static void main(String[] args) {
-        System.out.println("Intellij Installed Successfully.\nThank you......");
+        System.out.println("Intellij Installed Successfully.\nThank you.....");
     }
 }
