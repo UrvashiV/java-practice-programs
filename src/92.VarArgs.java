@@ -1,4 +1,4 @@
-public class VarArgs {
+ class VarArgs {
     static void main() {
         System.out.println(concatenate("Prashant"));
         System.out.println(concatenate("Prashant","Jain"));
